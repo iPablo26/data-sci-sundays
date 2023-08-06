@@ -1,4 +1,4 @@
-# data-sci-Sundays
+# Data-Sci-Sundays
 
 Notebook and files for Data Science Sundays 
 
